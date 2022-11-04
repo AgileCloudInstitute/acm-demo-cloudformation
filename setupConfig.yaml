@@ -33,9 +33,6 @@ dependencies:
       - url: https://releases.hashicorp.com/packer/1.7.3/packer_1.7.3_SHA256SUMS
       - url: https://releases.hashicorp.com/packer/1.7.3/packer_1.7.3_SHA256SUMS.sig
 source:
-  - instanceName: azure-building-blocks
-    repo: https://github.com/AgileCloudInstitute/azure-building-blocks.git
-    branch: dev
   - instanceName: aws-building-blocks
     repo: https://github.com/AgileCloudInstitute/aws-building-blocks.git
     branch: dev
