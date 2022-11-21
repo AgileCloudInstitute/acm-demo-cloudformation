@@ -3,7 +3,7 @@
 
 dependencies:
   - name: aws-cli
-    version: "2.5"
+    version: "2.4"
     download-link-windows: 
     download-link-linux:
   - name: git
