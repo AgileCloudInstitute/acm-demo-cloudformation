@@ -2,6 +2,10 @@
 ## Start at https://github.com/AgileCloudInstitute?tab=repositories    
 
 dependencies:
+  - name: aws-cli
+    version: "2.5"
+    download-link-windows: 
+    download-link-linux:
   - name: git
     version: "2"
     download-link-windows: https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.27.0.tar.gz
